@@ -443,6 +443,45 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Git Inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#303030</string>
+				<key>foreground</key>
+				<string>#3fc956</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Git Deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3d3d3d</string>
+				<key>foreground</key>
+				<string>#ff777a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Git Changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3d3d3d</string>
+				<key>foreground</key>
+				<string>#9036c9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Inserted</string>
 			<key>scope</key>
 			<string>markup.inserted</string>
