@@ -67,7 +67,7 @@
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>
+			<string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -214,7 +214,7 @@
 			<key>name</key>
 			<string>Strings, Inherited Class</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class</string>
+			<string>punctuation.definition.string, string, constant.other.symbol, entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
